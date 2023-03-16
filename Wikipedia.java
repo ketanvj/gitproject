@@ -3,7 +3,7 @@ package scripts;
 import org.testng.annotations.Test;
 import org.testng.annotations.BeforeMethod;
 
-import java.util.List.List.List.Util.util.util;
+import java.util.List;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
